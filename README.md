@@ -24,4 +24,4 @@
 
 ###
 
-<h3>For mor info check out <a target="_blank" href="https://sansegundo-portfolio.web.app/en/">my portfolio.</a></h3>
+<h3>For more info check out <a target="_blank" href="https://sansegundo-portfolio.web.app/en/">my portfolio.</a></h3>
