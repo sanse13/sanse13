@@ -2,7 +2,21 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanse13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sanse13&show_icons=true&theme=dracula" 
+    height="200" 
+    style="margin-right: 10px;" 
+    align="left" 
+  />
+</a>
+<a href="https://github.com/sanse13">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sanse13&layout=compact&langs_count=8&card_width=420&theme=dracula" 
+    height="200" 
+    align="left" 
+  />
+</a>
 
 ###
 
