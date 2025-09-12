@@ -12,4 +12,4 @@
 
 ###
 
-<h3>For mor info check out <a href="https://sansegundo-portfolio.web.app/es/">my portfolio</a></h3>
+<h3>For mor info check out <a href="https://sansegundo-portfolio.web.app/en/">my portfolio</a></h3>
