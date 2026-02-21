@@ -2,13 +2,8 @@
 
 ###
 
-<a href="https://github.com/sanse13">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sanse13&layout=compact&langs_count=8&card_width=420&theme=dracula" 
-    height="200" 
-    align="left" 
-  />
-</a>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ###
 
